@@ -1,0 +1,14 @@
+C:\Users\Halfdone\source\repos\Conditional Statements\03.Biggest of Five Numbers\bin\Debug\net8.0\03.Biggest of Five Numbers.exe
+C:\Users\Halfdone\source\repos\Conditional Statements\03.Biggest of Five Numbers\bin\Debug\net8.0\03.Biggest of Five Numbers.deps.json
+C:\Users\Halfdone\source\repos\Conditional Statements\03.Biggest of Five Numbers\bin\Debug\net8.0\03.Biggest of Five Numbers.runtimeconfig.json
+C:\Users\Halfdone\source\repos\Conditional Statements\03.Biggest of Five Numbers\bin\Debug\net8.0\03.Biggest of Five Numbers.dll
+C:\Users\Halfdone\source\repos\Conditional Statements\03.Biggest of Five Numbers\bin\Debug\net8.0\03.Biggest of Five Numbers.pdb
+C:\Users\Halfdone\source\repos\Conditional Statements\03.Biggest of Five Numbers\obj\Debug\net8.0\03.Biggest of Five Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halfdone\source\repos\Conditional Statements\03.Biggest of Five Numbers\obj\Debug\net8.0\03.Biggest of Five Numbers.AssemblyInfoInputs.cache
+C:\Users\Halfdone\source\repos\Conditional Statements\03.Biggest of Five Numbers\obj\Debug\net8.0\03.Biggest of Five Numbers.AssemblyInfo.cs
+C:\Users\Halfdone\source\repos\Conditional Statements\03.Biggest of Five Numbers\obj\Debug\net8.0\03.Biggest of Five Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Halfdone\source\repos\Conditional Statements\03.Biggest of Five Numbers\obj\Debug\net8.0\03.Biggest of Five Numbers.dll
+C:\Users\Halfdone\source\repos\Conditional Statements\03.Biggest of Five Numbers\obj\Debug\net8.0\refint\03.Biggest of Five Numbers.dll
+C:\Users\Halfdone\source\repos\Conditional Statements\03.Biggest of Five Numbers\obj\Debug\net8.0\03.Biggest of Five Numbers.pdb
+C:\Users\Halfdone\source\repos\Conditional Statements\03.Biggest of Five Numbers\obj\Debug\net8.0\03.Biggest of Five Numbers.genruntimeconfig.cache
+C:\Users\Halfdone\source\repos\Conditional Statements\03.Biggest of Five Numbers\obj\Debug\net8.0\ref\03.Biggest of Five Numbers.dll

@@ -1,0 +1,14 @@
+C:\Users\Halfdone\Desktop\C#\Conditional Statements Advanced - Lab\06.NumberinRange\bin\Debug\net6.0\06.NumberinRange.exe
+C:\Users\Halfdone\Desktop\C#\Conditional Statements Advanced - Lab\06.NumberinRange\bin\Debug\net6.0\06.NumberinRange.deps.json
+C:\Users\Halfdone\Desktop\C#\Conditional Statements Advanced - Lab\06.NumberinRange\bin\Debug\net6.0\06.NumberinRange.runtimeconfig.json
+C:\Users\Halfdone\Desktop\C#\Conditional Statements Advanced - Lab\06.NumberinRange\bin\Debug\net6.0\06.NumberinRange.dll
+C:\Users\Halfdone\Desktop\C#\Conditional Statements Advanced - Lab\06.NumberinRange\bin\Debug\net6.0\06.NumberinRange.pdb
+C:\Users\Halfdone\Desktop\C#\Conditional Statements Advanced - Lab\06.NumberinRange\obj\Debug\net6.0\06.NumberinRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halfdone\Desktop\C#\Conditional Statements Advanced - Lab\06.NumberinRange\obj\Debug\net6.0\06.NumberinRange.AssemblyInfoInputs.cache
+C:\Users\Halfdone\Desktop\C#\Conditional Statements Advanced - Lab\06.NumberinRange\obj\Debug\net6.0\06.NumberinRange.AssemblyInfo.cs
+C:\Users\Halfdone\Desktop\C#\Conditional Statements Advanced - Lab\06.NumberinRange\obj\Debug\net6.0\06.NumberinRange.csproj.CoreCompileInputs.cache
+C:\Users\Halfdone\Desktop\C#\Conditional Statements Advanced - Lab\06.NumberinRange\obj\Debug\net6.0\06.NumberinRange.dll
+C:\Users\Halfdone\Desktop\C#\Conditional Statements Advanced - Lab\06.NumberinRange\obj\Debug\net6.0\refint\06.NumberinRange.dll
+C:\Users\Halfdone\Desktop\C#\Conditional Statements Advanced - Lab\06.NumberinRange\obj\Debug\net6.0\06.NumberinRange.pdb
+C:\Users\Halfdone\Desktop\C#\Conditional Statements Advanced - Lab\06.NumberinRange\obj\Debug\net6.0\06.NumberinRange.genruntimeconfig.cache
+C:\Users\Halfdone\Desktop\C#\Conditional Statements Advanced - Lab\06.NumberinRange\obj\Debug\net6.0\ref\06.NumberinRange.dll

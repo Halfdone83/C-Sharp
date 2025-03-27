@@ -1,0 +1,14 @@
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\02. First N Numbers Sum\bin\Debug\net8.0\02. First N Numbers Sum.exe
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\02. First N Numbers Sum\bin\Debug\net8.0\02. First N Numbers Sum.deps.json
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\02. First N Numbers Sum\bin\Debug\net8.0\02. First N Numbers Sum.runtimeconfig.json
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\02. First N Numbers Sum\bin\Debug\net8.0\02. First N Numbers Sum.dll
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\02. First N Numbers Sum\bin\Debug\net8.0\02. First N Numbers Sum.pdb
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\02. First N Numbers Sum\obj\Debug\net8.0\02. First N Numbers Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\02. First N Numbers Sum\obj\Debug\net8.0\02. First N Numbers Sum.AssemblyInfoInputs.cache
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\02. First N Numbers Sum\obj\Debug\net8.0\02. First N Numbers Sum.AssemblyInfo.cs
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\02. First N Numbers Sum\obj\Debug\net8.0\02. First N Numbers Sum.csproj.CoreCompileInputs.cache
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\02. First N Numbers Sum\obj\Debug\net8.0\02. First N Numbers Sum.dll
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\02. First N Numbers Sum\obj\Debug\net8.0\refint\02. First N Numbers Sum.dll
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\02. First N Numbers Sum\obj\Debug\net8.0\02. First N Numbers Sum.pdb
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\02. First N Numbers Sum\obj\Debug\net8.0\02. First N Numbers Sum.genruntimeconfig.cache
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\02. First N Numbers Sum\obj\Debug\net8.0\ref\02. First N Numbers Sum.dll

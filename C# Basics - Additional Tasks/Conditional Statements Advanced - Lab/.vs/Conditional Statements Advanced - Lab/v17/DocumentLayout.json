@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Halfdone\\Desktop\\C#\\05.Conditional Statements Advanced - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8995D88-3924-4EC6-B3F8-65092C955397}|12.TradeCommissions\\12.TradeCommissions.csproj|c:\\users\\halfdone\\desktop\\c#\\05.conditional statements advanced - lab\\12.tradecommissions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8995D88-3924-4EC6-B3F8-65092C955397}|12.TradeCommissions\\12.TradeCommissions.csproj|solutionrelative:12.tradecommissions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1397579F-844C-45F3-968A-E95025438645}|11.FruitShop\\11.FruitShop.csproj|c:\\users\\halfdone\\desktop\\c#\\05.conditional statements advanced - lab\\11.fruitshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1397579F-844C-45F3-968A-E95025438645}|11.FruitShop\\11.FruitShop.csproj|solutionrelative:11.fruitshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F9655F-4950-466C-A3EA-2092C8755928}|05.SmallShop\\05.SmallShop.csproj|c:\\users\\halfdone\\desktop\\c#\\05.conditional statements advanced - lab\\05.smallshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F9655F-4950-466C-A3EA-2092C8755928}|05.SmallShop\\05.SmallShop.csproj|solutionrelative:05.smallshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B91CAC-AFF7-4D63-BFFA-0C19C2FC24B9}|06.NumberinRange\\06.NumberinRange.csproj|c:\\users\\halfdone\\desktop\\c#\\05.conditional statements advanced - lab\\06.numberinrange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B91CAC-AFF7-4D63-BFFA-0C19C2FC24B9}|06.NumberinRange\\06.NumberinRange.csproj|solutionrelative:06.numberinrange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5E8017-B303-40CB-9C31-3FB64D4E3BAD}|07.WorkingHours\\07.WorkingHours.csproj|c:\\users\\halfdone\\desktop\\c#\\05.conditional statements advanced - lab\\07.workinghours\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5E8017-B303-40CB-9C31-3FB64D4E3BAD}|07.WorkingHours\\07.WorkingHours.csproj|solutionrelative:07.workinghours\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C558FD-33F8-4475-9E39-2CD71E3A8CBC}|08.CinemaTicket\\08.CinemaTicket.csproj|c:\\users\\halfdone\\desktop\\c#\\05.conditional statements advanced - lab\\08.cinematicket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C558FD-33F8-4475-9E39-2CD71E3A8CBC}|08.CinemaTicket\\08.CinemaTicket.csproj|solutionrelative:08.cinematicket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482A6B21-22BF-4D11-B85A-144F17826733}|09.FruitorVegetable\\09.FruitorVegetable.csproj|c:\\users\\halfdone\\desktop\\c#\\05.conditional statements advanced - lab\\09.fruitorvegetable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{482A6B21-22BF-4D11-B85A-144F17826733}|09.FruitorVegetable\\09.FruitorVegetable.csproj|solutionrelative:09.fruitorvegetable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F21341-B62C-42E0-89F8-4392E234FBA3}|10.InvalidNumber\\10.InvalidNumber.csproj|c:\\users\\halfdone\\desktop\\c#\\05.conditional statements advanced - lab\\10.invalidnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F21341-B62C-42E0-89F8-4392E234FBA3}|10.InvalidNumber\\10.InvalidNumber.csproj|solutionrelative:10.invalidnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2C44FA-F27E-4602-AE7B-4D8C62143E80}|04.PersonalTitles\\04.PersonalTitles.csproj|c:\\users\\halfdone\\desktop\\c#\\05.conditional statements advanced - lab\\04.personaltitles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2C44FA-F27E-4602-AE7B-4D8C62143E80}|04.PersonalTitles\\04.PersonalTitles.csproj|solutionrelative:04.personaltitles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8165BAD6-3A3A-47D0-8EDC-5F10A0CF9167}|03.AnimalType\\03.AnimalType.csproj|c:\\users\\halfdone\\desktop\\c#\\05.conditional statements advanced - lab\\03.animaltype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8165BAD6-3A3A-47D0-8EDC-5F10A0CF9167}|03.AnimalType\\03.AnimalType.csproj|solutionrelative:03.animaltype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7890B75F-4BA1-4370-98B8-35AE8C3664AC}|02. Weekend or Working Day\\02. Weekend or Working Day.csproj|c:\\users\\halfdone\\desktop\\c#\\05.conditional statements advanced - lab\\02. weekend or working day\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7890B75F-4BA1-4370-98B8-35AE8C3664AC}|02. Weekend or Working Day\\02. Weekend or Working Day.csproj|solutionrelative:02. weekend or working day\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99E2914-13D6-4509-AA3C-DE80328DC86D}|01.DayofWeek\\01.DayofWeek.csproj|c:\\users\\halfdone\\desktop\\c#\\05.conditional statements advanced - lab\\01.dayofweek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99E2914-13D6-4509-AA3C-DE80328DC86D}|01.DayofWeek\\01.DayofWeek.csproj|solutionrelative:01.dayofweek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\C#\\05.Conditional Statements Advanced - Lab\\12.TradeCommissions\\Program.cs",
+              "RelativeDocumentMoniker": "12.TradeCommissions\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\C#\\05.Conditional Statements Advanced - Lab\\12.TradeCommissions\\Program.cs",
+              "RelativeToolTip": "12.TradeCommissions\\Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAkwFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:40:24.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\C#\\05.Conditional Statements Advanced - Lab\\11.FruitShop\\Program.cs",
+              "RelativeDocumentMoniker": "11.FruitShop\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\C#\\05.Conditional Statements Advanced - Lab\\11.FruitShop\\Program.cs",
+              "RelativeToolTip": "11.FruitShop\\Program.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:35:55.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\C#\\05.Conditional Statements Advanced - Lab\\10.InvalidNumber\\Program.cs",
+              "RelativeDocumentMoniker": "10.InvalidNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\C#\\05.Conditional Statements Advanced - Lab\\10.InvalidNumber\\Program.cs",
+              "RelativeToolTip": "10.InvalidNumber\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:31:17.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\C#\\05.Conditional Statements Advanced - Lab\\09.FruitorVegetable\\Program.cs",
+              "RelativeDocumentMoniker": "09.FruitorVegetable\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\C#\\05.Conditional Statements Advanced - Lab\\09.FruitorVegetable\\Program.cs",
+              "RelativeToolTip": "09.FruitorVegetable\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:24:18.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\C#\\05.Conditional Statements Advanced - Lab\\08.CinemaTicket\\Program.cs",
+              "RelativeDocumentMoniker": "08.CinemaTicket\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\C#\\05.Conditional Statements Advanced - Lab\\08.CinemaTicket\\Program.cs",
+              "RelativeToolTip": "08.CinemaTicket\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:19:20.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\C#\\05.Conditional Statements Advanced - Lab\\07.WorkingHours\\Program.cs",
+              "RelativeDocumentMoniker": "07.WorkingHours\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\C#\\05.Conditional Statements Advanced - Lab\\07.WorkingHours\\Program.cs",
+              "RelativeToolTip": "07.WorkingHours\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:48:55.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\C#\\05.Conditional Statements Advanced - Lab\\06.NumberinRange\\Program.cs",
+              "RelativeDocumentMoniker": "06.NumberinRange\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\C#\\05.Conditional Statements Advanced - Lab\\06.NumberinRange\\Program.cs",
+              "RelativeToolTip": "06.NumberinRange\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:42:50.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\C#\\05.Conditional Statements Advanced - Lab\\05.SmallShop\\Program.cs",
+              "RelativeDocumentMoniker": "05.SmallShop\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\C#\\05.Conditional Statements Advanced - Lab\\05.SmallShop\\Program.cs",
+              "RelativeToolTip": "05.SmallShop\\Program.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAiwFQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:08:18.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\C#\\05.Conditional Statements Advanced - Lab\\04.PersonalTitles\\Program.cs",
+              "RelativeDocumentMoniker": "04.PersonalTitles\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\C#\\05.Conditional Statements Advanced - Lab\\04.PersonalTitles\\Program.cs",
+              "RelativeToolTip": "04.PersonalTitles\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:00:52.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\C#\\05.Conditional Statements Advanced - Lab\\03.AnimalType\\Program.cs",
+              "RelativeDocumentMoniker": "03.AnimalType\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\C#\\05.Conditional Statements Advanced - Lab\\03.AnimalType\\Program.cs",
+              "RelativeToolTip": "03.AnimalType\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:55:59.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\C#\\05.Conditional Statements Advanced - Lab\\02. Weekend or Working Day\\Program.cs",
+              "RelativeDocumentMoniker": "02. Weekend or Working Day\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\C#\\05.Conditional Statements Advanced - Lab\\02. Weekend or Working Day\\Program.cs",
+              "RelativeToolTip": "02. Weekend or Working Day\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:09:57.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\C#\\05.Conditional Statements Advanced - Lab\\01.DayofWeek\\Program.cs",
+              "RelativeDocumentMoniker": "01.DayofWeek\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\C#\\05.Conditional Statements Advanced - Lab\\01.DayofWeek\\Program.cs",
+              "RelativeToolTip": "01.DayofWeek\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:39:57.457Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

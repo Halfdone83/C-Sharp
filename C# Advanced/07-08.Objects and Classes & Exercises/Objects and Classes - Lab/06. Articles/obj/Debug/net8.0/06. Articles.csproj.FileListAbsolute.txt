@@ -1,0 +1,14 @@
+C:\Users\Halfdone\source\repos\Objects and Classes - Lab\06. Articles\bin\Debug\net8.0\06. Articles.exe
+C:\Users\Halfdone\source\repos\Objects and Classes - Lab\06. Articles\bin\Debug\net8.0\06. Articles.deps.json
+C:\Users\Halfdone\source\repos\Objects and Classes - Lab\06. Articles\bin\Debug\net8.0\06. Articles.runtimeconfig.json
+C:\Users\Halfdone\source\repos\Objects and Classes - Lab\06. Articles\bin\Debug\net8.0\06. Articles.dll
+C:\Users\Halfdone\source\repos\Objects and Classes - Lab\06. Articles\bin\Debug\net8.0\06. Articles.pdb
+C:\Users\Halfdone\source\repos\Objects and Classes - Lab\06. Articles\obj\Debug\net8.0\06. Articles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halfdone\source\repos\Objects and Classes - Lab\06. Articles\obj\Debug\net8.0\06. Articles.AssemblyInfoInputs.cache
+C:\Users\Halfdone\source\repos\Objects and Classes - Lab\06. Articles\obj\Debug\net8.0\06. Articles.AssemblyInfo.cs
+C:\Users\Halfdone\source\repos\Objects and Classes - Lab\06. Articles\obj\Debug\net8.0\06. Articles.csproj.CoreCompileInputs.cache
+C:\Users\Halfdone\source\repos\Objects and Classes - Lab\06. Articles\obj\Debug\net8.0\06. Articles.dll
+C:\Users\Halfdone\source\repos\Objects and Classes - Lab\06. Articles\obj\Debug\net8.0\refint\06. Articles.dll
+C:\Users\Halfdone\source\repos\Objects and Classes - Lab\06. Articles\obj\Debug\net8.0\06. Articles.pdb
+C:\Users\Halfdone\source\repos\Objects and Classes - Lab\06. Articles\obj\Debug\net8.0\06. Articles.genruntimeconfig.cache
+C:\Users\Halfdone\source\repos\Objects and Classes - Lab\06. Articles\obj\Debug\net8.0\ref\06. Articles.dll

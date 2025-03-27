@@ -1,0 +1,14 @@
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\02. Decreasing Numbers\bin\Debug\net8.0\02. Decreasing Numbers.exe
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\02. Decreasing Numbers\bin\Debug\net8.0\02. Decreasing Numbers.deps.json
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\02. Decreasing Numbers\bin\Debug\net8.0\02. Decreasing Numbers.runtimeconfig.json
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\02. Decreasing Numbers\bin\Debug\net8.0\02. Decreasing Numbers.dll
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\02. Decreasing Numbers\bin\Debug\net8.0\02. Decreasing Numbers.pdb
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\02. Decreasing Numbers\obj\Debug\net8.0\02. Decreasing Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\02. Decreasing Numbers\obj\Debug\net8.0\02. Decreasing Numbers.AssemblyInfoInputs.cache
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\02. Decreasing Numbers\obj\Debug\net8.0\02. Decreasing Numbers.AssemblyInfo.cs
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\02. Decreasing Numbers\obj\Debug\net8.0\02. Decreasing Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\02. Decreasing Numbers\obj\Debug\net8.0\02. Decreasing Numbers.dll
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\02. Decreasing Numbers\obj\Debug\net8.0\refint\02. Decreasing Numbers.dll
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\02. Decreasing Numbers\obj\Debug\net8.0\02. Decreasing Numbers.pdb
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\02. Decreasing Numbers\obj\Debug\net8.0\02. Decreasing Numbers.genruntimeconfig.cache
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\02. Decreasing Numbers\obj\Debug\net8.0\ref\02. Decreasing Numbers.dll

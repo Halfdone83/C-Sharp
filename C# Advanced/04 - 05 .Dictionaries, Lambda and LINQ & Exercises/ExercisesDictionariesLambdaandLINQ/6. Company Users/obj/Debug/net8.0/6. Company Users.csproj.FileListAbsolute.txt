@@ -1,0 +1,14 @@
+C:\Users\Halfdone\source\repos\ExercisesDictionariesLambdaandLINQ\6. Company Users\bin\Debug\net8.0\6. Company Users.exe
+C:\Users\Halfdone\source\repos\ExercisesDictionariesLambdaandLINQ\6. Company Users\bin\Debug\net8.0\6. Company Users.deps.json
+C:\Users\Halfdone\source\repos\ExercisesDictionariesLambdaandLINQ\6. Company Users\bin\Debug\net8.0\6. Company Users.runtimeconfig.json
+C:\Users\Halfdone\source\repos\ExercisesDictionariesLambdaandLINQ\6. Company Users\bin\Debug\net8.0\6. Company Users.dll
+C:\Users\Halfdone\source\repos\ExercisesDictionariesLambdaandLINQ\6. Company Users\bin\Debug\net8.0\6. Company Users.pdb
+C:\Users\Halfdone\source\repos\ExercisesDictionariesLambdaandLINQ\6. Company Users\obj\Debug\net8.0\6. Company Users.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halfdone\source\repos\ExercisesDictionariesLambdaandLINQ\6. Company Users\obj\Debug\net8.0\6. Company Users.AssemblyInfoInputs.cache
+C:\Users\Halfdone\source\repos\ExercisesDictionariesLambdaandLINQ\6. Company Users\obj\Debug\net8.0\6. Company Users.AssemblyInfo.cs
+C:\Users\Halfdone\source\repos\ExercisesDictionariesLambdaandLINQ\6. Company Users\obj\Debug\net8.0\6. Company Users.csproj.CoreCompileInputs.cache
+C:\Users\Halfdone\source\repos\ExercisesDictionariesLambdaandLINQ\6. Company Users\obj\Debug\net8.0\6. Company Users.dll
+C:\Users\Halfdone\source\repos\ExercisesDictionariesLambdaandLINQ\6. Company Users\obj\Debug\net8.0\refint\6. Company Users.dll
+C:\Users\Halfdone\source\repos\ExercisesDictionariesLambdaandLINQ\6. Company Users\obj\Debug\net8.0\6. Company Users.pdb
+C:\Users\Halfdone\source\repos\ExercisesDictionariesLambdaandLINQ\6. Company Users\obj\Debug\net8.0\6. Company Users.genruntimeconfig.cache
+C:\Users\Halfdone\source\repos\ExercisesDictionariesLambdaandLINQ\6. Company Users\obj\Debug\net8.0\ref\6. Company Users.dll

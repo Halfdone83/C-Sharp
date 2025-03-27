@@ -1,0 +1,14 @@
+C:\Users\Halfdone\source\repos\Objects and Classes - Lab\04. Vehicle Catalogue\bin\Debug\net8.0\04. Vehicle Catalogue.exe
+C:\Users\Halfdone\source\repos\Objects and Classes - Lab\04. Vehicle Catalogue\bin\Debug\net8.0\04. Vehicle Catalogue.deps.json
+C:\Users\Halfdone\source\repos\Objects and Classes - Lab\04. Vehicle Catalogue\bin\Debug\net8.0\04. Vehicle Catalogue.runtimeconfig.json
+C:\Users\Halfdone\source\repos\Objects and Classes - Lab\04. Vehicle Catalogue\bin\Debug\net8.0\04. Vehicle Catalogue.dll
+C:\Users\Halfdone\source\repos\Objects and Classes - Lab\04. Vehicle Catalogue\bin\Debug\net8.0\04. Vehicle Catalogue.pdb
+C:\Users\Halfdone\source\repos\Objects and Classes - Lab\04. Vehicle Catalogue\obj\Debug\net8.0\04. Vehicle Catalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halfdone\source\repos\Objects and Classes - Lab\04. Vehicle Catalogue\obj\Debug\net8.0\04. Vehicle Catalogue.AssemblyInfoInputs.cache
+C:\Users\Halfdone\source\repos\Objects and Classes - Lab\04. Vehicle Catalogue\obj\Debug\net8.0\04. Vehicle Catalogue.AssemblyInfo.cs
+C:\Users\Halfdone\source\repos\Objects and Classes - Lab\04. Vehicle Catalogue\obj\Debug\net8.0\04. Vehicle Catalogue.csproj.CoreCompileInputs.cache
+C:\Users\Halfdone\source\repos\Objects and Classes - Lab\04. Vehicle Catalogue\obj\Debug\net8.0\04. Vehicle Catalogue.dll
+C:\Users\Halfdone\source\repos\Objects and Classes - Lab\04. Vehicle Catalogue\obj\Debug\net8.0\refint\04. Vehicle Catalogue.dll
+C:\Users\Halfdone\source\repos\Objects and Classes - Lab\04. Vehicle Catalogue\obj\Debug\net8.0\04. Vehicle Catalogue.pdb
+C:\Users\Halfdone\source\repos\Objects and Classes - Lab\04. Vehicle Catalogue\obj\Debug\net8.0\04. Vehicle Catalogue.genruntimeconfig.cache
+C:\Users\Halfdone\source\repos\Objects and Classes - Lab\04. Vehicle Catalogue\obj\Debug\net8.0\ref\04. Vehicle Catalogue.dll

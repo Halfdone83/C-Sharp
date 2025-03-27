@@ -1,0 +1,14 @@
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\04. Numbers Ending in 7\bin\Debug\net8.0\04. Numbers Ending in 7.exe
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\04. Numbers Ending in 7\bin\Debug\net8.0\04. Numbers Ending in 7.deps.json
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\04. Numbers Ending in 7\bin\Debug\net8.0\04. Numbers Ending in 7.runtimeconfig.json
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\04. Numbers Ending in 7\bin\Debug\net8.0\04. Numbers Ending in 7.dll
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\04. Numbers Ending in 7\bin\Debug\net8.0\04. Numbers Ending in 7.pdb
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\04. Numbers Ending in 7\obj\Debug\net8.0\04. Numbers Ending in 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\04. Numbers Ending in 7\obj\Debug\net8.0\04. Numbers Ending in 7.AssemblyInfoInputs.cache
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\04. Numbers Ending in 7\obj\Debug\net8.0\04. Numbers Ending in 7.AssemblyInfo.cs
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\04. Numbers Ending in 7\obj\Debug\net8.0\04. Numbers Ending in 7.csproj.CoreCompileInputs.cache
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\04. Numbers Ending in 7\obj\Debug\net8.0\04. Numbers Ending in 7.dll
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\04. Numbers Ending in 7\obj\Debug\net8.0\refint\04. Numbers Ending in 7.dll
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\04. Numbers Ending in 7\obj\Debug\net8.0\04. Numbers Ending in 7.pdb
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\04. Numbers Ending in 7\obj\Debug\net8.0\04. Numbers Ending in 7.genruntimeconfig.cache
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\04. Numbers Ending in 7\obj\Debug\net8.0\ref\04. Numbers Ending in 7.dll

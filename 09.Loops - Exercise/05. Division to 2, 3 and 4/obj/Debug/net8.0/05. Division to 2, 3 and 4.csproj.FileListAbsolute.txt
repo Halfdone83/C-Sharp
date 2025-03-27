@@ -1,0 +1,14 @@
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\05. Division to 2, 3 and 4\bin\Debug\net8.0\05. Division to 2, 3 and 4.exe
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\05. Division to 2, 3 and 4\bin\Debug\net8.0\05. Division to 2, 3 and 4.deps.json
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\05. Division to 2, 3 and 4\bin\Debug\net8.0\05. Division to 2, 3 and 4.runtimeconfig.json
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\05. Division to 2, 3 and 4\bin\Debug\net8.0\05. Division to 2, 3 and 4.dll
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\05. Division to 2, 3 and 4\bin\Debug\net8.0\05. Division to 2, 3 and 4.pdb
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\05. Division to 2, 3 and 4\obj\Debug\net8.0\05. Division to 2, 3 and 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\05. Division to 2, 3 and 4\obj\Debug\net8.0\05. Division to 2, 3 and 4.AssemblyInfoInputs.cache
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\05. Division to 2, 3 and 4\obj\Debug\net8.0\05. Division to 2, 3 and 4.AssemblyInfo.cs
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\05. Division to 2, 3 and 4\obj\Debug\net8.0\05. Division to 2, 3 and 4.csproj.CoreCompileInputs.cache
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\05. Division to 2, 3 and 4\obj\Debug\net8.0\05. Division to 2, 3 and 4.dll
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\05. Division to 2, 3 and 4\obj\Debug\net8.0\refint\05. Division to 2, 3 and 4.dll
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\05. Division to 2, 3 and 4\obj\Debug\net8.0\05. Division to 2, 3 and 4.pdb
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\05. Division to 2, 3 and 4\obj\Debug\net8.0\05. Division to 2, 3 and 4.genruntimeconfig.cache
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\05. Division to 2, 3 and 4\obj\Debug\net8.0\ref\05. Division to 2, 3 and 4.dll

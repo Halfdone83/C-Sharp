@@ -1,0 +1,14 @@
+C:\Users\Halfdone\Desktop\C#\First Steps In Coding - Lab\05.GreetingByName\bin\Debug\net6.0\05.GreetingByName.exe
+C:\Users\Halfdone\Desktop\C#\First Steps In Coding - Lab\05.GreetingByName\bin\Debug\net6.0\05.GreetingByName.deps.json
+C:\Users\Halfdone\Desktop\C#\First Steps In Coding - Lab\05.GreetingByName\bin\Debug\net6.0\05.GreetingByName.runtimeconfig.json
+C:\Users\Halfdone\Desktop\C#\First Steps In Coding - Lab\05.GreetingByName\bin\Debug\net6.0\05.GreetingByName.dll
+C:\Users\Halfdone\Desktop\C#\First Steps In Coding - Lab\05.GreetingByName\bin\Debug\net6.0\05.GreetingByName.pdb
+C:\Users\Halfdone\Desktop\C#\First Steps In Coding - Lab\05.GreetingByName\obj\Debug\net6.0\05.GreetingByName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halfdone\Desktop\C#\First Steps In Coding - Lab\05.GreetingByName\obj\Debug\net6.0\05.GreetingByName.AssemblyInfoInputs.cache
+C:\Users\Halfdone\Desktop\C#\First Steps In Coding - Lab\05.GreetingByName\obj\Debug\net6.0\05.GreetingByName.AssemblyInfo.cs
+C:\Users\Halfdone\Desktop\C#\First Steps In Coding - Lab\05.GreetingByName\obj\Debug\net6.0\05.GreetingByName.csproj.CoreCompileInputs.cache
+C:\Users\Halfdone\Desktop\C#\First Steps In Coding - Lab\05.GreetingByName\obj\Debug\net6.0\05.GreetingByName.dll
+C:\Users\Halfdone\Desktop\C#\First Steps In Coding - Lab\05.GreetingByName\obj\Debug\net6.0\refint\05.GreetingByName.dll
+C:\Users\Halfdone\Desktop\C#\First Steps In Coding - Lab\05.GreetingByName\obj\Debug\net6.0\05.GreetingByName.pdb
+C:\Users\Halfdone\Desktop\C#\First Steps In Coding - Lab\05.GreetingByName\obj\Debug\net6.0\05.GreetingByName.genruntimeconfig.cache
+C:\Users\Halfdone\Desktop\C#\First Steps In Coding - Lab\05.GreetingByName\obj\Debug\net6.0\ref\05.GreetingByName.dll

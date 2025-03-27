@@ -1,0 +1,14 @@
+C:\Users\Halfdone\Desktop\C#\Arrays - Exercise\4. Magic Sum\bin\Debug\net8.0\4. Magic Sum.exe
+C:\Users\Halfdone\Desktop\C#\Arrays - Exercise\4. Magic Sum\bin\Debug\net8.0\4. Magic Sum.deps.json
+C:\Users\Halfdone\Desktop\C#\Arrays - Exercise\4. Magic Sum\bin\Debug\net8.0\4. Magic Sum.runtimeconfig.json
+C:\Users\Halfdone\Desktop\C#\Arrays - Exercise\4. Magic Sum\bin\Debug\net8.0\4. Magic Sum.dll
+C:\Users\Halfdone\Desktop\C#\Arrays - Exercise\4. Magic Sum\bin\Debug\net8.0\4. Magic Sum.pdb
+C:\Users\Halfdone\Desktop\C#\Arrays - Exercise\4. Magic Sum\obj\Debug\net8.0\4. Magic Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halfdone\Desktop\C#\Arrays - Exercise\4. Magic Sum\obj\Debug\net8.0\4. Magic Sum.AssemblyInfoInputs.cache
+C:\Users\Halfdone\Desktop\C#\Arrays - Exercise\4. Magic Sum\obj\Debug\net8.0\4. Magic Sum.AssemblyInfo.cs
+C:\Users\Halfdone\Desktop\C#\Arrays - Exercise\4. Magic Sum\obj\Debug\net8.0\4. Magic Sum.csproj.CoreCompileInputs.cache
+C:\Users\Halfdone\Desktop\C#\Arrays - Exercise\4. Magic Sum\obj\Debug\net8.0\4. Magic Sum.dll
+C:\Users\Halfdone\Desktop\C#\Arrays - Exercise\4. Magic Sum\obj\Debug\net8.0\refint\4. Magic Sum.dll
+C:\Users\Halfdone\Desktop\C#\Arrays - Exercise\4. Magic Sum\obj\Debug\net8.0\4. Magic Sum.pdb
+C:\Users\Halfdone\Desktop\C#\Arrays - Exercise\4. Magic Sum\obj\Debug\net8.0\4. Magic Sum.genruntimeconfig.cache
+C:\Users\Halfdone\Desktop\C#\Arrays - Exercise\4. Magic Sum\obj\Debug\net8.0\ref\4. Magic Sum.dll

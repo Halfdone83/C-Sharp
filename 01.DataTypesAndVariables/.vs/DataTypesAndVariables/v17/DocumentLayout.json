@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Halfdone\\source\\repos\\DataTypesAndVariables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8A22BD-CCDF-4885-8307-0C7B13F76C7E}|8. Town Info\\8. Town Info.csproj|c:\\users\\halfdone\\source\\repos\\datatypesandvariables\\8. town info\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8A22BD-CCDF-4885-8307-0C7B13F76C7E}|8. Town Info\\8. Town Info.csproj|solutionrelative:8. town info\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276260D8-8902-4E8B-B8E5-D5F987296322}|09.DysInMinutes\\09.DysInMinutes.csproj|c:\\users\\halfdone\\source\\repos\\datatypesandvariables\\09.dysinminutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276260D8-8902-4E8B-B8E5-D5F987296322}|09.DysInMinutes\\09.DysInMinutes.csproj|solutionrelative:09.dysinminutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5C9996-0A1C-47D7-95EE-E06663628CE1}|5. Greeting\\5. Greeting.csproj|c:\\users\\halfdone\\source\\repos\\datatypesandvariables\\5. greeting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5C9996-0A1C-47D7-95EE-E06663628CE1}|5. Greeting\\5. Greeting.csproj|solutionrelative:5. greeting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D7620A-54E2-4B50-A160-B0B250F133A9}|10. Calculate Speed\\10. Calculate Speed.csproj|c:\\users\\halfdone\\source\\repos\\datatypesandvariables\\10. calculate speed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D7620A-54E2-4B50-A160-B0B250F133A9}|10. Calculate Speed\\10. Calculate Speed.csproj|solutionrelative:10. calculate speed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ECFD94B-091B-4763-B530-BF2603DDF853}|2. Print 5 x 5\\2. Print 5 x 5.csproj|c:\\users\\halfdone\\source\\repos\\datatypesandvariables\\2. print 5 x 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ECFD94B-091B-4763-B530-BF2603DDF853}|2. Print 5 x 5\\2. Print 5 x 5.csproj|solutionrelative:2. print 5 x 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD93A4D-997E-406B-B167-07744C90545E}|3. Name and Expression\\3. Name and Expression.csproj|c:\\users\\halfdone\\source\\repos\\datatypesandvariables\\3. name and expression\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD93A4D-997E-406B-B167-07744C90545E}|3. Name and Expression\\3. Name and Expression.csproj|solutionrelative:3. name and expression\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0766BB-CD79-4686-8DAA-8AF49AA40C02}|4. Calculations\\4. Calculations.csproj|c:\\users\\halfdone\\source\\repos\\datatypesandvariables\\4. calculations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0766BB-CD79-4686-8DAA-8AF49AA40C02}|4. Calculations\\4. Calculations.csproj|solutionrelative:4. calculations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3CA8DA-A02A-476C-BBA3-0329E961FE2A}|6. Customer Info\\6. Customer Info.csproj|c:\\users\\halfdone\\source\\repos\\datatypesandvariables\\6. customer info\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A3CA8DA-A02A-476C-BBA3-0329E961FE2A}|6. Customer Info\\6. Customer Info.csproj|solutionrelative:6. customer info\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD13D08F-1984-454B-8C6F-757DA1F28CF9}|7. Person Info\\7. Person Info.csproj|c:\\users\\halfdone\\source\\repos\\datatypesandvariables\\7. person info\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD13D08F-1984-454B-8C6F-757DA1F28CF9}|7. Person Info\\7. Person Info.csproj|solutionrelative:7. person info\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1676E1CB-C570-42B3-975E-C2876524DCB2}|Lab\\Lab.csproj|c:\\users\\halfdone\\source\\repos\\datatypesandvariables\\lab\\1. hello c#.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1676E1CB-C570-42B3-975E-C2876524DCB2}|Lab\\Lab.csproj|solutionrelative:lab\\1. hello c#.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\source\\repos\\DataTypesAndVariables\\09.DysInMinutes\\Program.cs",
+              "RelativeDocumentMoniker": "09.DysInMinutes\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\source\\repos\\DataTypesAndVariables\\09.DysInMinutes\\Program.cs",
+              "RelativeToolTip": "09.DysInMinutes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:13:00.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\source\\repos\\DataTypesAndVariables\\8. Town Info\\Program.cs",
+              "RelativeDocumentMoniker": "8. Town Info\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\source\\repos\\DataTypesAndVariables\\8. Town Info\\Program.cs",
+              "RelativeToolTip": "8. Town Info\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:11:48.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\source\\repos\\DataTypesAndVariables\\7. Person Info\\Program.cs",
+              "RelativeDocumentMoniker": "7. Person Info\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\source\\repos\\DataTypesAndVariables\\7. Person Info\\Program.cs",
+              "RelativeToolTip": "7. Person Info\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:11:37.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\source\\repos\\DataTypesAndVariables\\6. Customer Info\\Program.cs",
+              "RelativeDocumentMoniker": "6. Customer Info\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\source\\repos\\DataTypesAndVariables\\6. Customer Info\\Program.cs",
+              "RelativeToolTip": "6. Customer Info\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:11:24.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\source\\repos\\DataTypesAndVariables\\5. Greeting\\Program.cs",
+              "RelativeDocumentMoniker": "5. Greeting\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\source\\repos\\DataTypesAndVariables\\5. Greeting\\Program.cs",
+              "RelativeToolTip": "5. Greeting\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:11:12.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\source\\repos\\DataTypesAndVariables\\4. Calculations\\Program.cs",
+              "RelativeDocumentMoniker": "4. Calculations\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\source\\repos\\DataTypesAndVariables\\4. Calculations\\Program.cs",
+              "RelativeToolTip": "4. Calculations\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:11:02.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\source\\repos\\DataTypesAndVariables\\3. Name and Expression\\Program.cs",
+              "RelativeDocumentMoniker": "3. Name and Expression\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\source\\repos\\DataTypesAndVariables\\3. Name and Expression\\Program.cs",
+              "RelativeToolTip": "3. Name and Expression\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:10:51.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\source\\repos\\DataTypesAndVariables\\2. Print 5 x 5\\Program.cs",
+              "RelativeDocumentMoniker": "2. Print 5 x 5\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\source\\repos\\DataTypesAndVariables\\2. Print 5 x 5\\Program.cs",
+              "RelativeToolTip": "2. Print 5 x 5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:10:33.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\source\\repos\\DataTypesAndVariables\\10. Calculate Speed\\Program.cs",
+              "RelativeDocumentMoniker": "10. Calculate Speed\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\source\\repos\\DataTypesAndVariables\\10. Calculate Speed\\Program.cs",
+              "RelativeToolTip": "10. Calculate Speed\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:07:27.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "1. Hello C#.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\source\\repos\\DataTypesAndVariables\\Lab\\1. Hello C#.cs",
+              "RelativeDocumentMoniker": "Lab\\1. Hello C#.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\source\\repos\\DataTypesAndVariables\\Lab\\1. Hello C#.cs",
+              "RelativeToolTip": "Lab\\1. Hello C#.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:00:40.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

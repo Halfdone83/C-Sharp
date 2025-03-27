@@ -1,0 +1,14 @@
+C:\Users\Halfdone\source\repos\Methods - Lab\06. Math Power\obj\Debug\net8.0\06. Math Power.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halfdone\source\repos\Methods - Lab\06. Math Power\obj\Debug\net8.0\06. Math Power.AssemblyInfoInputs.cache
+C:\Users\Halfdone\source\repos\Methods - Lab\06. Math Power\obj\Debug\net8.0\06. Math Power.AssemblyInfo.cs
+C:\Users\Halfdone\source\repos\Methods - Lab\06. Math Power\obj\Debug\net8.0\06. Math Power.csproj.CoreCompileInputs.cache
+C:\Users\Halfdone\source\repos\Methods - Lab\06. Math Power\bin\Debug\net8.0\06. Math Power.exe
+C:\Users\Halfdone\source\repos\Methods - Lab\06. Math Power\bin\Debug\net8.0\06. Math Power.deps.json
+C:\Users\Halfdone\source\repos\Methods - Lab\06. Math Power\bin\Debug\net8.0\06. Math Power.runtimeconfig.json
+C:\Users\Halfdone\source\repos\Methods - Lab\06. Math Power\bin\Debug\net8.0\06. Math Power.dll
+C:\Users\Halfdone\source\repos\Methods - Lab\06. Math Power\bin\Debug\net8.0\06. Math Power.pdb
+C:\Users\Halfdone\source\repos\Methods - Lab\06. Math Power\obj\Debug\net8.0\06. Math Power.dll
+C:\Users\Halfdone\source\repos\Methods - Lab\06. Math Power\obj\Debug\net8.0\refint\06. Math Power.dll
+C:\Users\Halfdone\source\repos\Methods - Lab\06. Math Power\obj\Debug\net8.0\06. Math Power.pdb
+C:\Users\Halfdone\source\repos\Methods - Lab\06. Math Power\obj\Debug\net8.0\06. Math Power.genruntimeconfig.cache
+C:\Users\Halfdone\source\repos\Methods - Lab\06. Math Power\obj\Debug\net8.0\ref\06. Math Power.dll

@@ -1,0 +1,14 @@
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\02. Even Powers of 2\bin\Debug\net8.0\02. Even Powers of 2.exe
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\02. Even Powers of 2\bin\Debug\net8.0\02. Even Powers of 2.deps.json
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\02. Even Powers of 2\bin\Debug\net8.0\02. Even Powers of 2.runtimeconfig.json
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\02. Even Powers of 2\bin\Debug\net8.0\02. Even Powers of 2.dll
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\02. Even Powers of 2\bin\Debug\net8.0\02. Even Powers of 2.pdb
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\02. Even Powers of 2\obj\Debug\net8.0\02. Even Powers of 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\02. Even Powers of 2\obj\Debug\net8.0\02. Even Powers of 2.AssemblyInfoInputs.cache
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\02. Even Powers of 2\obj\Debug\net8.0\02. Even Powers of 2.AssemblyInfo.cs
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\02. Even Powers of 2\obj\Debug\net8.0\02. Even Powers of 2.csproj.CoreCompileInputs.cache
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\02. Even Powers of 2\obj\Debug\net8.0\02. Even Powers of 2.dll
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\02. Even Powers of 2\obj\Debug\net8.0\refint\02. Even Powers of 2.dll
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\02. Even Powers of 2\obj\Debug\net8.0\02. Even Powers of 2.pdb
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\02. Even Powers of 2\obj\Debug\net8.0\02. Even Powers of 2.genruntimeconfig.cache
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\02. Even Powers of 2\obj\Debug\net8.0\ref\02. Even Powers of 2.dll

@@ -1,0 +1,14 @@
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\03. Triangle of Stars\bin\Debug\net8.0\03. Triangle of Stars.exe
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\03. Triangle of Stars\bin\Debug\net8.0\03. Triangle of Stars.deps.json
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\03. Triangle of Stars\bin\Debug\net8.0\03. Triangle of Stars.runtimeconfig.json
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\03. Triangle of Stars\bin\Debug\net8.0\03. Triangle of Stars.dll
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\03. Triangle of Stars\bin\Debug\net8.0\03. Triangle of Stars.pdb
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\03. Triangle of Stars\obj\Debug\net8.0\03. Triangle of Stars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\03. Triangle of Stars\obj\Debug\net8.0\03. Triangle of Stars.AssemblyInfoInputs.cache
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\03. Triangle of Stars\obj\Debug\net8.0\03. Triangle of Stars.AssemblyInfo.cs
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\03. Triangle of Stars\obj\Debug\net8.0\03. Triangle of Stars.csproj.CoreCompileInputs.cache
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\03. Triangle of Stars\obj\Debug\net8.0\03. Triangle of Stars.dll
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\03. Triangle of Stars\obj\Debug\net8.0\refint\03. Triangle of Stars.dll
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\03. Triangle of Stars\obj\Debug\net8.0\03. Triangle of Stars.pdb
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\03. Triangle of Stars\obj\Debug\net8.0\03. Triangle of Stars.genruntimeconfig.cache
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\03. Triangle of Stars\obj\Debug\net8.0\ref\03. Triangle of Stars.dll

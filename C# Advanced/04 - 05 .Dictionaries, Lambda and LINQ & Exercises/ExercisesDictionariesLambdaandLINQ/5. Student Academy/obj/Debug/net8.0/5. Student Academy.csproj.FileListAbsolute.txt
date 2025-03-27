@@ -1,0 +1,14 @@
+C:\Users\Halfdone\source\repos\ExercisesDictionariesLambdaandLINQ\5. Student Academy\bin\Debug\net8.0\5. Student Academy.exe
+C:\Users\Halfdone\source\repos\ExercisesDictionariesLambdaandLINQ\5. Student Academy\bin\Debug\net8.0\5. Student Academy.deps.json
+C:\Users\Halfdone\source\repos\ExercisesDictionariesLambdaandLINQ\5. Student Academy\bin\Debug\net8.0\5. Student Academy.runtimeconfig.json
+C:\Users\Halfdone\source\repos\ExercisesDictionariesLambdaandLINQ\5. Student Academy\bin\Debug\net8.0\5. Student Academy.dll
+C:\Users\Halfdone\source\repos\ExercisesDictionariesLambdaandLINQ\5. Student Academy\bin\Debug\net8.0\5. Student Academy.pdb
+C:\Users\Halfdone\source\repos\ExercisesDictionariesLambdaandLINQ\5. Student Academy\obj\Debug\net8.0\5. Student Academy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halfdone\source\repos\ExercisesDictionariesLambdaandLINQ\5. Student Academy\obj\Debug\net8.0\5. Student Academy.AssemblyInfoInputs.cache
+C:\Users\Halfdone\source\repos\ExercisesDictionariesLambdaandLINQ\5. Student Academy\obj\Debug\net8.0\5. Student Academy.AssemblyInfo.cs
+C:\Users\Halfdone\source\repos\ExercisesDictionariesLambdaandLINQ\5. Student Academy\obj\Debug\net8.0\5. Student Academy.csproj.CoreCompileInputs.cache
+C:\Users\Halfdone\source\repos\ExercisesDictionariesLambdaandLINQ\5. Student Academy\obj\Debug\net8.0\5. Student Academy.dll
+C:\Users\Halfdone\source\repos\ExercisesDictionariesLambdaandLINQ\5. Student Academy\obj\Debug\net8.0\refint\5. Student Academy.dll
+C:\Users\Halfdone\source\repos\ExercisesDictionariesLambdaandLINQ\5. Student Academy\obj\Debug\net8.0\5. Student Academy.pdb
+C:\Users\Halfdone\source\repos\ExercisesDictionariesLambdaandLINQ\5. Student Academy\obj\Debug\net8.0\5. Student Academy.genruntimeconfig.cache
+C:\Users\Halfdone\source\repos\ExercisesDictionariesLambdaandLINQ\5. Student Academy\obj\Debug\net8.0\ref\5. Student Academy.dll

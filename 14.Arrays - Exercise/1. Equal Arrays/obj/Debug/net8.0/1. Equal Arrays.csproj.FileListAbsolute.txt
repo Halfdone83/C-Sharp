@@ -1,0 +1,14 @@
+C:\Users\Halfdone\Desktop\C#\Arrays - Exercise\1. Equal Arrays\bin\Debug\net8.0\1. Equal Arrays.exe
+C:\Users\Halfdone\Desktop\C#\Arrays - Exercise\1. Equal Arrays\bin\Debug\net8.0\1. Equal Arrays.deps.json
+C:\Users\Halfdone\Desktop\C#\Arrays - Exercise\1. Equal Arrays\bin\Debug\net8.0\1. Equal Arrays.runtimeconfig.json
+C:\Users\Halfdone\Desktop\C#\Arrays - Exercise\1. Equal Arrays\bin\Debug\net8.0\1. Equal Arrays.dll
+C:\Users\Halfdone\Desktop\C#\Arrays - Exercise\1. Equal Arrays\bin\Debug\net8.0\1. Equal Arrays.pdb
+C:\Users\Halfdone\Desktop\C#\Arrays - Exercise\1. Equal Arrays\obj\Debug\net8.0\1. Equal Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halfdone\Desktop\C#\Arrays - Exercise\1. Equal Arrays\obj\Debug\net8.0\1. Equal Arrays.AssemblyInfoInputs.cache
+C:\Users\Halfdone\Desktop\C#\Arrays - Exercise\1. Equal Arrays\obj\Debug\net8.0\1. Equal Arrays.AssemblyInfo.cs
+C:\Users\Halfdone\Desktop\C#\Arrays - Exercise\1. Equal Arrays\obj\Debug\net8.0\1. Equal Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Halfdone\Desktop\C#\Arrays - Exercise\1. Equal Arrays\obj\Debug\net8.0\1. Equal Arrays.dll
+C:\Users\Halfdone\Desktop\C#\Arrays - Exercise\1. Equal Arrays\obj\Debug\net8.0\refint\1. Equal Arrays.dll
+C:\Users\Halfdone\Desktop\C#\Arrays - Exercise\1. Equal Arrays\obj\Debug\net8.0\1. Equal Arrays.pdb
+C:\Users\Halfdone\Desktop\C#\Arrays - Exercise\1. Equal Arrays\obj\Debug\net8.0\1. Equal Arrays.genruntimeconfig.cache
+C:\Users\Halfdone\Desktop\C#\Arrays - Exercise\1. Equal Arrays\obj\Debug\net8.0\ref\1. Equal Arrays.dll

@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Halfdone\\Desktop\\QA Course\\Automation\\ProgrammingForQA\\ProgrammingAdvancedForQA\\07-08.Objects and Classes \u0026 Exercises\\Objects and Classes - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D027B9B-E283-474A-942C-3D9E5D0FEFF2}|04. Vehicle Catalogue\\04. Vehicle Catalogue.csproj|c:\\users\\halfdone\\desktop\\qa course\\automation\\programmingforqa\\programmingadvancedforqa\\07-08.objects and classes \u0026 exercises\\objects and classes - lab\\04. vehicle catalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D027B9B-E283-474A-942C-3D9E5D0FEFF2}|04. Vehicle Catalogue\\04. Vehicle Catalogue.csproj|solutionrelative:04. vehicle catalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FD04C6-9F9E-4835-8848-A02DB1116764}|07. Teamwork Projects\\07. Teamwork Projects.csproj|c:\\users\\halfdone\\desktop\\qa course\\automation\\programmingforqa\\programmingadvancedforqa\\07-08.objects and classes \u0026 exercises\\objects and classes - lab\\07. teamwork projects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FD04C6-9F9E-4835-8848-A02DB1116764}|07. Teamwork Projects\\07. Teamwork Projects.csproj|solutionrelative:07. teamwork projects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349F8615-2827-422E-AFC4-F7FE0AC89F8D}|06. Articles\\06. Articles.csproj|c:\\users\\halfdone\\desktop\\qa course\\automation\\programmingforqa\\programmingadvancedforqa\\07-08.objects and classes \u0026 exercises\\objects and classes - lab\\06. articles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349F8615-2827-422E-AFC4-F7FE0AC89F8D}|06. Articles\\06. Articles.csproj|solutionrelative:06. articles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22977DC8-8CFF-45F2-AB6C-23B49D3F0F6C}|05. Students\\05. Students.csproj|c:\\users\\halfdone\\desktop\\qa course\\automation\\programmingforqa\\programmingadvancedforqa\\07-08.objects and classes \u0026 exercises\\objects and classes - lab\\05. students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22977DC8-8CFF-45F2-AB6C-23B49D3F0F6C}|05. Students\\05. Students.csproj|solutionrelative:05. students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A1A8A4-EE6A-4D24-949A-0B3A31A78ED0}|03. Store Boxes\\03. Store Boxes.csproj|c:\\users\\halfdone\\desktop\\qa course\\automation\\programmingforqa\\programmingadvancedforqa\\07-08.objects and classes \u0026 exercises\\objects and classes - lab\\03. store boxes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A1A8A4-EE6A-4D24-949A-0B3A31A78ED0}|03. Store Boxes\\03. Store Boxes.csproj|solutionrelative:03. store boxes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904DD63A-EAA8-4B5D-8761-A9D40C698BBF}|01. Songs\\01. Songs.csproj|c:\\users\\halfdone\\desktop\\qa course\\automation\\programmingforqa\\programmingadvancedforqa\\07-08.objects and classes \u0026 exercises\\objects and classes - lab\\01. songs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904DD63A-EAA8-4B5D-8761-A9D40C698BBF}|01. Songs\\01. Songs.csproj|solutionrelative:01. songs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FCD935-F72B-45F5-A10D-8EA6C32EEC98}|02. Students\\02. Students.csproj|c:\\users\\halfdone\\desktop\\qa course\\automation\\programmingforqa\\programmingadvancedforqa\\07-08.objects and classes \u0026 exercises\\objects and classes - lab\\02. students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FCD935-F72B-45F5-A10D-8EA6C32EEC98}|02. Students\\02. Students.csproj|solutionrelative:02. students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\QA Course\\Automation\\ProgrammingForQA\\ProgrammingAdvancedForQA\\07-08.Objects and Classes \u0026 Exercises\\Objects and Classes - Lab\\07. Teamwork Projects\\Program.cs",
+              "RelativeDocumentMoniker": "07. Teamwork Projects\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\QA Course\\Automation\\ProgrammingForQA\\ProgrammingAdvancedForQA\\07-08.Objects and Classes \u0026 Exercises\\Objects and Classes - Lab\\07. Teamwork Projects\\Program.cs",
+              "RelativeToolTip": "07. Teamwork Projects\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:01:00.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\QA Course\\Automation\\ProgrammingForQA\\ProgrammingAdvancedForQA\\07-08.Objects and Classes \u0026 Exercises\\Objects and Classes - Lab\\06. Articles\\Program.cs",
+              "RelativeDocumentMoniker": "06. Articles\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\QA Course\\Automation\\ProgrammingForQA\\ProgrammingAdvancedForQA\\07-08.Objects and Classes \u0026 Exercises\\Objects and Classes - Lab\\06. Articles\\Program.cs",
+              "RelativeToolTip": "06. Articles\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T09:49:41.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\QA Course\\Automation\\ProgrammingForQA\\ProgrammingAdvancedForQA\\07-08.Objects and Classes \u0026 Exercises\\Objects and Classes - Lab\\05. Students\\Program.cs",
+              "RelativeDocumentMoniker": "05. Students\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\QA Course\\Automation\\ProgrammingForQA\\ProgrammingAdvancedForQA\\07-08.Objects and Classes \u0026 Exercises\\Objects and Classes - Lab\\05. Students\\Program.cs",
+              "RelativeToolTip": "05. Students\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T08:40:14.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\QA Course\\Automation\\ProgrammingForQA\\ProgrammingAdvancedForQA\\07-08.Objects and Classes \u0026 Exercises\\Objects and Classes - Lab\\04. Vehicle Catalogue\\Program.cs",
+              "RelativeDocumentMoniker": "04. Vehicle Catalogue\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\QA Course\\Automation\\ProgrammingForQA\\ProgrammingAdvancedForQA\\07-08.Objects and Classes \u0026 Exercises\\Objects and Classes - Lab\\04. Vehicle Catalogue\\Program.cs",
+              "RelativeToolTip": "04. Vehicle Catalogue\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:44:51.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\QA Course\\Automation\\ProgrammingForQA\\ProgrammingAdvancedForQA\\07-08.Objects and Classes \u0026 Exercises\\Objects and Classes - Lab\\03. Store Boxes\\Program.cs",
+              "RelativeDocumentMoniker": "03. Store Boxes\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\QA Course\\Automation\\ProgrammingForQA\\ProgrammingAdvancedForQA\\07-08.Objects and Classes \u0026 Exercises\\Objects and Classes - Lab\\03. Store Boxes\\Program.cs",
+              "RelativeToolTip": "03. Store Boxes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:19:11.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\QA Course\\Automation\\ProgrammingForQA\\ProgrammingAdvancedForQA\\07-08.Objects and Classes \u0026 Exercises\\Objects and Classes - Lab\\02. Students\\Program.cs",
+              "RelativeDocumentMoniker": "02. Students\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\QA Course\\Automation\\ProgrammingForQA\\ProgrammingAdvancedForQA\\07-08.Objects and Classes \u0026 Exercises\\Objects and Classes - Lab\\02. Students\\Program.cs",
+              "RelativeToolTip": "02. Students\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:46:27.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\QA Course\\Automation\\ProgrammingForQA\\ProgrammingAdvancedForQA\\07-08.Objects and Classes \u0026 Exercises\\Objects and Classes - Lab\\01. Songs\\Program.cs",
+              "RelativeDocumentMoniker": "01. Songs\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\QA Course\\Automation\\ProgrammingForQA\\ProgrammingAdvancedForQA\\07-08.Objects and Classes \u0026 Exercises\\Objects and Classes - Lab\\01. Songs\\Program.cs",
+              "RelativeToolTip": "01. Songs\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:22:38.582Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

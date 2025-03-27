@@ -1,0 +1,14 @@
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\06. Travel Savings\bin\Debug\net8.0\06. Travel Savings.exe
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\06. Travel Savings\bin\Debug\net8.0\06. Travel Savings.deps.json
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\06. Travel Savings\bin\Debug\net8.0\06. Travel Savings.runtimeconfig.json
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\06. Travel Savings\bin\Debug\net8.0\06. Travel Savings.dll
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\06. Travel Savings\bin\Debug\net8.0\06. Travel Savings.pdb
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\06. Travel Savings\obj\Debug\net8.0\06. Travel Savings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\06. Travel Savings\obj\Debug\net8.0\06. Travel Savings.AssemblyInfoInputs.cache
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\06. Travel Savings\obj\Debug\net8.0\06. Travel Savings.AssemblyInfo.cs
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\06. Travel Savings\obj\Debug\net8.0\06. Travel Savings.csproj.CoreCompileInputs.cache
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\06. Travel Savings\obj\Debug\net8.0\06. Travel Savings.dll
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\06. Travel Savings\obj\Debug\net8.0\refint\06. Travel Savings.dll
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\06. Travel Savings\obj\Debug\net8.0\06. Travel Savings.pdb
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\06. Travel Savings\obj\Debug\net8.0\06. Travel Savings.genruntimeconfig.cache
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\06. Travel Savings\obj\Debug\net8.0\ref\06. Travel Savings.dll

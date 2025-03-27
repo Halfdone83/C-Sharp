@@ -1,0 +1,14 @@
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\08. Prime Numbers\bin\Debug\net8.0\08. Prime Numbers.exe
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\08. Prime Numbers\bin\Debug\net8.0\08. Prime Numbers.deps.json
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\08. Prime Numbers\bin\Debug\net8.0\08. Prime Numbers.runtimeconfig.json
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\08. Prime Numbers\bin\Debug\net8.0\08. Prime Numbers.dll
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\08. Prime Numbers\bin\Debug\net8.0\08. Prime Numbers.pdb
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\08. Prime Numbers\obj\Debug\net8.0\08. Prime Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\08. Prime Numbers\obj\Debug\net8.0\08. Prime Numbers.AssemblyInfoInputs.cache
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\08. Prime Numbers\obj\Debug\net8.0\08. Prime Numbers.AssemblyInfo.cs
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\08. Prime Numbers\obj\Debug\net8.0\08. Prime Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\08. Prime Numbers\obj\Debug\net8.0\08. Prime Numbers.dll
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\08. Prime Numbers\obj\Debug\net8.0\refint\08. Prime Numbers.dll
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\08. Prime Numbers\obj\Debug\net8.0\08. Prime Numbers.pdb
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\08. Prime Numbers\obj\Debug\net8.0\08. Prime Numbers.genruntimeconfig.cache
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\08. Prime Numbers\obj\Debug\net8.0\ref\08. Prime Numbers.dll

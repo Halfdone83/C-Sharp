@@ -1,0 +1,14 @@
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\01. Numbers From N to 1\bin\Debug\net8.0\01. Numbers From N to 1.exe
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\01. Numbers From N to 1\bin\Debug\net8.0\01. Numbers From N to 1.deps.json
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\01. Numbers From N to 1\bin\Debug\net8.0\01. Numbers From N to 1.runtimeconfig.json
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\01. Numbers From N to 1\bin\Debug\net8.0\01. Numbers From N to 1.dll
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\01. Numbers From N to 1\bin\Debug\net8.0\01. Numbers From N to 1.pdb
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\01. Numbers From N to 1\obj\Debug\net8.0\01. Numbers From N to 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\01. Numbers From N to 1\obj\Debug\net8.0\01. Numbers From N to 1.AssemblyInfoInputs.cache
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\01. Numbers From N to 1\obj\Debug\net8.0\01. Numbers From N to 1.AssemblyInfo.cs
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\01. Numbers From N to 1\obj\Debug\net8.0\01. Numbers From N to 1.csproj.CoreCompileInputs.cache
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\01. Numbers From N to 1\obj\Debug\net8.0\01. Numbers From N to 1.dll
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\01. Numbers From N to 1\obj\Debug\net8.0\refint\01. Numbers From N to 1.dll
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\01. Numbers From N to 1\obj\Debug\net8.0\01. Numbers From N to 1.pdb
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\01. Numbers From N to 1\obj\Debug\net8.0\01. Numbers From N to 1.genruntimeconfig.cache
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\01. Numbers From N to 1\obj\Debug\net8.0\ref\01. Numbers From N to 1.dll

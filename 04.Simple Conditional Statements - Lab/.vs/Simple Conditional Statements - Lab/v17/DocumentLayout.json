@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Halfdone\\source\\repos\\Simple Conditional Statements - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31CEDC0B-F4AF-418E-9382-013355597999}|1. Freezing Weather\\1. Freezing Weather.csproj|c:\\users\\halfdone\\source\\repos\\simple conditional statements - lab\\1. freezing weather\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31CEDC0B-F4AF-418E-9382-013355597999}|1. Freezing Weather\\1. Freezing Weather.csproj|solutionrelative:1. freezing weather\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AF3E2F-5479-4BCF-84B8-4221749FA5F6}|2. Even or Odd\\2. Even or Odd.csproj|c:\\users\\halfdone\\source\\repos\\simple conditional statements - lab\\2. even or odd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AF3E2F-5479-4BCF-84B8-4221749FA5F6}|2. Even or Odd\\2. Even or Odd.csproj|solutionrelative:2. even or odd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0146EC-C670-419C-A5E6-25C7DE7452C3}|3. Number 1\u20269 as Words\\3. Number 1\u20269 as Words.csproj|c:\\users\\halfdone\\source\\repos\\simple conditional statements - lab\\3. number 1\u20269 as words\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E0146EC-C670-419C-A5E6-25C7DE7452C3}|3. Number 1\u20269 as Words\\3. Number 1\u20269 as Words.csproj|solutionrelative:3. number 1\u20269 as words\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583D1620-B9AF-49A8-BF50-227D033937B9}|4. Greater Number\\4. Greater Number.csproj|c:\\users\\halfdone\\source\\repos\\simple conditional statements - lab\\4. greater number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{583D1620-B9AF-49A8-BF50-227D033937B9}|4. Greater Number\\4. Greater Number.csproj|solutionrelative:4. greater number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A345F8F9-99FF-41AE-A120-96A38F2D9BD0}|5. Guess the Password\\5. Guess the Password.csproj|c:\\users\\halfdone\\source\\repos\\simple conditional statements - lab\\5. guess the password\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A345F8F9-99FF-41AE-A120-96A38F2D9BD0}|5. Guess the Password\\5. Guess the Password.csproj|solutionrelative:5. guess the password\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{856B2BFF-3879-4963-8EDB-A8DAA4337623}|6. Boiling Water\\6. Boiling Water.csproj|c:\\users\\halfdone\\source\\repos\\simple conditional statements - lab\\6. boiling water\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{856B2BFF-3879-4963-8EDB-A8DAA4337623}|6. Boiling Water\\6. Boiling Water.csproj|solutionrelative:6. boiling water\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928177D2-927E-405D-A83D-D7F540D7B295}|7. Speed Info\\7. Speed Info.csproj|c:\\users\\halfdone\\source\\repos\\simple conditional statements - lab\\7. speed info\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928177D2-927E-405D-A83D-D7F540D7B295}|7. Speed Info\\7. Speed Info.csproj|solutionrelative:7. speed info\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1804CF63-8A79-4505-9459-B01565E334B6}|8. Ticket Price\\8. Ticket Price.csproj|c:\\users\\halfdone\\source\\repos\\simple conditional statements - lab\\8. ticket price\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1804CF63-8A79-4505-9459-B01565E334B6}|8. Ticket Price\\8. Ticket Price.csproj|solutionrelative:8. ticket price\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4309AABC-CEF9-400E-9C41-E1726C266198}|9. Valid Triangle\\9. Valid Triangle.csproj|c:\\users\\halfdone\\source\\repos\\simple conditional statements - lab\\9. valid triangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4309AABC-CEF9-400E-9C41-E1726C266198}|9. Valid Triangle\\9. Valid Triangle.csproj|solutionrelative:9. valid triangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\source\\repos\\Simple Conditional Statements - Lab\\9. Valid Triangle\\Program.cs",
+              "RelativeDocumentMoniker": "9. Valid Triangle\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\source\\repos\\Simple Conditional Statements - Lab\\9. Valid Triangle\\Program.cs",
+              "RelativeToolTip": "9. Valid Triangle\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:26:21.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\source\\repos\\Simple Conditional Statements - Lab\\8. Ticket Price\\Program.cs",
+              "RelativeDocumentMoniker": "8. Ticket Price\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\source\\repos\\Simple Conditional Statements - Lab\\8. Ticket Price\\Program.cs",
+              "RelativeToolTip": "8. Ticket Price\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:26:13.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\source\\repos\\Simple Conditional Statements - Lab\\7. Speed Info\\Program.cs",
+              "RelativeDocumentMoniker": "7. Speed Info\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\source\\repos\\Simple Conditional Statements - Lab\\7. Speed Info\\Program.cs",
+              "RelativeToolTip": "7. Speed Info\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:26:05.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\source\\repos\\Simple Conditional Statements - Lab\\6. Boiling Water\\Program.cs",
+              "RelativeDocumentMoniker": "6. Boiling Water\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\source\\repos\\Simple Conditional Statements - Lab\\6. Boiling Water\\Program.cs",
+              "RelativeToolTip": "6. Boiling Water\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:25:55.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\source\\repos\\Simple Conditional Statements - Lab\\5. Guess the Password\\Program.cs",
+              "RelativeDocumentMoniker": "5. Guess the Password\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\source\\repos\\Simple Conditional Statements - Lab\\5. Guess the Password\\Program.cs",
+              "RelativeToolTip": "5. Guess the Password\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:25:47.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\source\\repos\\Simple Conditional Statements - Lab\\4. Greater Number\\Program.cs",
+              "RelativeDocumentMoniker": "4. Greater Number\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\source\\repos\\Simple Conditional Statements - Lab\\4. Greater Number\\Program.cs",
+              "RelativeToolTip": "4. Greater Number\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:25:37.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\source\\repos\\Simple Conditional Statements - Lab\\3. Number 1\u20269 as Words\\Program.cs",
+              "RelativeDocumentMoniker": "3. Number 1\u20269 as Words\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\source\\repos\\Simple Conditional Statements - Lab\\3. Number 1\u20269 as Words\\Program.cs",
+              "RelativeToolTip": "3. Number 1\u20269 as Words\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:25:29.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\source\\repos\\Simple Conditional Statements - Lab\\2. Even or Odd\\Program.cs",
+              "RelativeDocumentMoniker": "2. Even or Odd\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\source\\repos\\Simple Conditional Statements - Lab\\2. Even or Odd\\Program.cs",
+              "RelativeToolTip": "2. Even or Odd\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:25:21.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\source\\repos\\Simple Conditional Statements - Lab\\1. Freezing Weather\\Program.cs",
+              "RelativeDocumentMoniker": "1. Freezing Weather\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\source\\repos\\Simple Conditional Statements - Lab\\1. Freezing Weather\\Program.cs",
+              "RelativeToolTip": "1. Freezing Weather\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:25:06.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

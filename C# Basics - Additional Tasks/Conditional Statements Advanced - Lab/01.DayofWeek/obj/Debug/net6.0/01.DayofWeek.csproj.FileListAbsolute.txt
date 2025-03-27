@@ -1,0 +1,14 @@
+C:\Users\Halfdone\Desktop\C#\Conditional Statements Advanced - Lab\01.DayofWeek\bin\Debug\net6.0\01.DayofWeek.exe
+C:\Users\Halfdone\Desktop\C#\Conditional Statements Advanced - Lab\01.DayofWeek\bin\Debug\net6.0\01.DayofWeek.deps.json
+C:\Users\Halfdone\Desktop\C#\Conditional Statements Advanced - Lab\01.DayofWeek\bin\Debug\net6.0\01.DayofWeek.runtimeconfig.json
+C:\Users\Halfdone\Desktop\C#\Conditional Statements Advanced - Lab\01.DayofWeek\bin\Debug\net6.0\01.DayofWeek.dll
+C:\Users\Halfdone\Desktop\C#\Conditional Statements Advanced - Lab\01.DayofWeek\bin\Debug\net6.0\01.DayofWeek.pdb
+C:\Users\Halfdone\Desktop\C#\Conditional Statements Advanced - Lab\01.DayofWeek\obj\Debug\net6.0\01.DayofWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halfdone\Desktop\C#\Conditional Statements Advanced - Lab\01.DayofWeek\obj\Debug\net6.0\01.DayofWeek.AssemblyInfoInputs.cache
+C:\Users\Halfdone\Desktop\C#\Conditional Statements Advanced - Lab\01.DayofWeek\obj\Debug\net6.0\01.DayofWeek.AssemblyInfo.cs
+C:\Users\Halfdone\Desktop\C#\Conditional Statements Advanced - Lab\01.DayofWeek\obj\Debug\net6.0\01.DayofWeek.csproj.CoreCompileInputs.cache
+C:\Users\Halfdone\Desktop\C#\Conditional Statements Advanced - Lab\01.DayofWeek\obj\Debug\net6.0\01.DayofWeek.dll
+C:\Users\Halfdone\Desktop\C#\Conditional Statements Advanced - Lab\01.DayofWeek\obj\Debug\net6.0\refint\01.DayofWeek.dll
+C:\Users\Halfdone\Desktop\C#\Conditional Statements Advanced - Lab\01.DayofWeek\obj\Debug\net6.0\01.DayofWeek.pdb
+C:\Users\Halfdone\Desktop\C#\Conditional Statements Advanced - Lab\01.DayofWeek\obj\Debug\net6.0\01.DayofWeek.genruntimeconfig.cache
+C:\Users\Halfdone\Desktop\C#\Conditional Statements Advanced - Lab\01.DayofWeek\obj\Debug\net6.0\ref\01.DayofWeek.dll

@@ -1,0 +1,14 @@
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\04. Vowel Sum\bin\Debug\net8.0\04. Vowel Sum.exe
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\04. Vowel Sum\bin\Debug\net8.0\04. Vowel Sum.deps.json
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\04. Vowel Sum\bin\Debug\net8.0\04. Vowel Sum.runtimeconfig.json
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\04. Vowel Sum\bin\Debug\net8.0\04. Vowel Sum.dll
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\04. Vowel Sum\bin\Debug\net8.0\04. Vowel Sum.pdb
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\04. Vowel Sum\obj\Debug\net8.0\04. Vowel Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\04. Vowel Sum\obj\Debug\net8.0\04. Vowel Sum.AssemblyInfoInputs.cache
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\04. Vowel Sum\obj\Debug\net8.0\04. Vowel Sum.AssemblyInfo.cs
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\04. Vowel Sum\obj\Debug\net8.0\04. Vowel Sum.csproj.CoreCompileInputs.cache
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\04. Vowel Sum\obj\Debug\net8.0\04. Vowel Sum.dll
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\04. Vowel Sum\obj\Debug\net8.0\refint\04. Vowel Sum.dll
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\04. Vowel Sum\obj\Debug\net8.0\04. Vowel Sum.pdb
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\04. Vowel Sum\obj\Debug\net8.0\04. Vowel Sum.genruntimeconfig.cache
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\04. Vowel Sum\obj\Debug\net8.0\ref\04. Vowel Sum.dll

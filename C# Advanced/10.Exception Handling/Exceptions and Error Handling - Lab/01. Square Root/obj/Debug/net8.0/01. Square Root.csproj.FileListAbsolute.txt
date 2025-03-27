@@ -1,0 +1,14 @@
+C:\Users\Halfdone\source\repos\Exceptions and Error Handling - Lab\01. Square Root\bin\Debug\net8.0\01. Square Root.exe
+C:\Users\Halfdone\source\repos\Exceptions and Error Handling - Lab\01. Square Root\bin\Debug\net8.0\01. Square Root.deps.json
+C:\Users\Halfdone\source\repos\Exceptions and Error Handling - Lab\01. Square Root\bin\Debug\net8.0\01. Square Root.runtimeconfig.json
+C:\Users\Halfdone\source\repos\Exceptions and Error Handling - Lab\01. Square Root\bin\Debug\net8.0\01. Square Root.dll
+C:\Users\Halfdone\source\repos\Exceptions and Error Handling - Lab\01. Square Root\bin\Debug\net8.0\01. Square Root.pdb
+C:\Users\Halfdone\source\repos\Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\net8.0\01. Square Root.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halfdone\source\repos\Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\net8.0\01. Square Root.AssemblyInfoInputs.cache
+C:\Users\Halfdone\source\repos\Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\net8.0\01. Square Root.AssemblyInfo.cs
+C:\Users\Halfdone\source\repos\Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\net8.0\01. Square Root.csproj.CoreCompileInputs.cache
+C:\Users\Halfdone\source\repos\Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\net8.0\01. Square Root.dll
+C:\Users\Halfdone\source\repos\Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\net8.0\refint\01. Square Root.dll
+C:\Users\Halfdone\source\repos\Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\net8.0\01. Square Root.pdb
+C:\Users\Halfdone\source\repos\Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\net8.0\01. Square Root.genruntimeconfig.cache
+C:\Users\Halfdone\source\repos\Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\net8.0\ref\01. Square Root.dll

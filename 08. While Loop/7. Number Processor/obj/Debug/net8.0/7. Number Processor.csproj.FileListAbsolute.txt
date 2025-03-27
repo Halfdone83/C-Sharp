@@ -1,0 +1,14 @@
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\7. Number Processor\bin\Debug\net8.0\7. Number Processor.exe
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\7. Number Processor\bin\Debug\net8.0\7. Number Processor.deps.json
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\7. Number Processor\bin\Debug\net8.0\7. Number Processor.runtimeconfig.json
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\7. Number Processor\bin\Debug\net8.0\7. Number Processor.dll
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\7. Number Processor\bin\Debug\net8.0\7. Number Processor.pdb
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\7. Number Processor\obj\Debug\net8.0\7. Number Processor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\7. Number Processor\obj\Debug\net8.0\7. Number Processor.AssemblyInfoInputs.cache
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\7. Number Processor\obj\Debug\net8.0\7. Number Processor.AssemblyInfo.cs
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\7. Number Processor\obj\Debug\net8.0\7. Number Processor.csproj.CoreCompileInputs.cache
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\7. Number Processor\obj\Debug\net8.0\7. Number Processor.dll
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\7. Number Processor\obj\Debug\net8.0\refint\7. Number Processor.dll
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\7. Number Processor\obj\Debug\net8.0\7. Number Processor.pdb
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\7. Number Processor\obj\Debug\net8.0\7. Number Processor.genruntimeconfig.cache
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\7. Number Processor\obj\Debug\net8.0\ref\7. Number Processor.dll

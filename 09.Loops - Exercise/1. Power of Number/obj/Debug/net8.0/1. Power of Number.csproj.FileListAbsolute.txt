@@ -1,0 +1,14 @@
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\1. Power of Number\bin\Debug\net8.0\1. Power of Number.exe
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\1. Power of Number\bin\Debug\net8.0\1. Power of Number.deps.json
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\1. Power of Number\bin\Debug\net8.0\1. Power of Number.runtimeconfig.json
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\1. Power of Number\bin\Debug\net8.0\1. Power of Number.dll
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\1. Power of Number\bin\Debug\net8.0\1. Power of Number.pdb
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\1. Power of Number\obj\Debug\net8.0\1. Power of Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\1. Power of Number\obj\Debug\net8.0\1. Power of Number.AssemblyInfoInputs.cache
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\1. Power of Number\obj\Debug\net8.0\1. Power of Number.AssemblyInfo.cs
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\1. Power of Number\obj\Debug\net8.0\1. Power of Number.csproj.CoreCompileInputs.cache
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\1. Power of Number\obj\Debug\net8.0\1. Power of Number.dll
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\1. Power of Number\obj\Debug\net8.0\refint\1. Power of Number.dll
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\1. Power of Number\obj\Debug\net8.0\1. Power of Number.pdb
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\1. Power of Number\obj\Debug\net8.0\1. Power of Number.genruntimeconfig.cache
+C:\Users\Halfdone\Desktop\Programing for QA\Loops - Exercise\1. Power of Number\obj\Debug\net8.0\ref\1. Power of Number.dll

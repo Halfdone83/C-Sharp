@@ -1,0 +1,14 @@
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\05. Number Pyramid\bin\Debug\net8.0\05. Number Pyramid.exe
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\05. Number Pyramid\bin\Debug\net8.0\05. Number Pyramid.deps.json
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\05. Number Pyramid\bin\Debug\net8.0\05. Number Pyramid.runtimeconfig.json
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\05. Number Pyramid\bin\Debug\net8.0\05. Number Pyramid.dll
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\05. Number Pyramid\bin\Debug\net8.0\05. Number Pyramid.pdb
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\05. Number Pyramid\obj\Debug\net8.0\05. Number Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\05. Number Pyramid\obj\Debug\net8.0\05. Number Pyramid.AssemblyInfoInputs.cache
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\05. Number Pyramid\obj\Debug\net8.0\05. Number Pyramid.AssemblyInfo.cs
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\05. Number Pyramid\obj\Debug\net8.0\05. Number Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\05. Number Pyramid\obj\Debug\net8.0\05. Number Pyramid.dll
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\05. Number Pyramid\obj\Debug\net8.0\refint\05. Number Pyramid.dll
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\05. Number Pyramid\obj\Debug\net8.0\05. Number Pyramid.pdb
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\05. Number Pyramid\obj\Debug\net8.0\05. Number Pyramid.genruntimeconfig.cache
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\05. Number Pyramid\obj\Debug\net8.0\ref\05. Number Pyramid.dll

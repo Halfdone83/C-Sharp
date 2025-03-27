@@ -1,0 +1,4 @@
+C:\Users\Halfdone\Desktop\C#\Conditional Statements Advanced - Lab\09.FruitorVegetable\obj\Debug\net6.0\09.FruitorVegetable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halfdone\Desktop\C#\Conditional Statements Advanced - Lab\09.FruitorVegetable\obj\Debug\net6.0\09.FruitorVegetable.AssemblyInfoInputs.cache
+C:\Users\Halfdone\Desktop\C#\Conditional Statements Advanced - Lab\09.FruitorVegetable\obj\Debug\net6.0\09.FruitorVegetable.AssemblyInfo.cs
+C:\Users\Halfdone\Desktop\C#\Conditional Statements Advanced - Lab\09.FruitorVegetable\obj\Debug\net6.0\09.FruitorVegetable.csproj.CoreCompileInputs.cache

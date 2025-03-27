@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Halfdone\\source\\repos\\ExercisesDictionariesLambdaandLINQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B096FC0-E412-40B7-BF5A-6ABEC5D2C7CD}|6. Company Users\\6. Company Users.csproj|c:\\users\\halfdone\\source\\repos\\exercisesdictionarieslambdaandlinq\\6. company users\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B096FC0-E412-40B7-BF5A-6ABEC5D2C7CD}|6. Company Users\\6. Company Users.csproj|solutionrelative:6. company users\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712288AD-88FD-4796-A9BA-EFAB7565F560}|4. SoftUni Parking\\4. SoftUni Parking.csproj|c:\\users\\halfdone\\source\\repos\\exercisesdictionarieslambdaandlinq\\4. softuni parking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712288AD-88FD-4796-A9BA-EFAB7565F560}|4. SoftUni Parking\\4. SoftUni Parking.csproj|solutionrelative:4. softuni parking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899F954F-5941-4FC9-99B2-2FFF8E14EFFD}|5. Student Academy\\5. Student Academy.csproj|c:\\users\\halfdone\\source\\repos\\exercisesdictionarieslambdaandlinq\\5. student academy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899F954F-5941-4FC9-99B2-2FFF8E14EFFD}|5. Student Academy\\5. Student Academy.csproj|solutionrelative:5. student academy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9188C7-E20B-4A49-86B3-D597B50140A8}|03. Word Synonyms\\03. Word Synonyms.csproj|c:\\users\\halfdone\\source\\repos\\exercisesdictionarieslambdaandlinq\\03. word synonyms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9188C7-E20B-4A49-86B3-D597B50140A8}|03. Word Synonyms\\03. Word Synonyms.csproj|solutionrelative:03. word synonyms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62804570-47A9-422D-987A-B005A2129339}|02. Odd Occurrences\\02. Odd Occurrences.csproj|c:\\users\\halfdone\\source\\repos\\exercisesdictionarieslambdaandlinq\\02. odd occurrences\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62804570-47A9-422D-987A-B005A2129339}|02. Odd Occurrences\\02. Odd Occurrences.csproj|solutionrelative:02. odd occurrences\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C63386-8D67-4540-8794-17369A29713A}|04. Word Filter\\04. Word Filter.csproj|c:\\users\\halfdone\\source\\repos\\exercisesdictionarieslambdaandlinq\\04. word filter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47C63386-8D67-4540-8794-17369A29713A}|04. Word Filter\\04. Word Filter.csproj|solutionrelative:04. word filter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F24398-1C38-407E-9081-4B08AD784280}|01. Count Chars in a String\\01. Count Chars in a String.csproj|c:\\users\\halfdone\\source\\repos\\exercisesdictionarieslambdaandlinq\\01. count chars in a string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F24398-1C38-407E-9081-4B08AD784280}|01. Count Chars in a String\\01. Count Chars in a String.csproj|solutionrelative:01. count chars in a string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3EEFAD6-F34B-45A8-8E1C-5A1A68A48204}|2. A Miner Task\\2. A Miner Task.csproj|c:\\users\\halfdone\\source\\repos\\exercisesdictionarieslambdaandlinq\\2. a miner task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3EEFAD6-F34B-45A8-8E1C-5A1A68A48204}|2. A Miner Task\\2. A Miner Task.csproj|solutionrelative:2. a miner task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A31CBC0-FCE1-4549-9AA9-AFF2807D0B12}|3. Orders\\3. Orders.csproj|c:\\users\\halfdone\\source\\repos\\exercisesdictionarieslambdaandlinq\\3. orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A31CBC0-FCE1-4549-9AA9-AFF2807D0B12}|3. Orders\\3. Orders.csproj|solutionrelative:3. orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9DB5A4-99D2-42EC-8934-EF87976A41FF}|01. Count Real Numbers\\01. Count Real Numbers.csproj|c:\\users\\halfdone\\source\\repos\\exercisesdictionarieslambdaandlinq\\01. count real numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9DB5A4-99D2-42EC-8934-EF87976A41FF}|01. Count Real Numbers\\01. Count Real Numbers.csproj|solutionrelative:01. count real numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\source\\repos\\ExercisesDictionariesLambdaandLINQ\\6. Company Users\\Program.cs",
+              "RelativeDocumentMoniker": "6. Company Users\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\source\\repos\\ExercisesDictionariesLambdaandLINQ\\6. Company Users\\Program.cs",
+              "RelativeToolTip": "6. Company Users\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:54:23.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\source\\repos\\ExercisesDictionariesLambdaandLINQ\\5. Student Academy\\Program.cs",
+              "RelativeDocumentMoniker": "5. Student Academy\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\source\\repos\\ExercisesDictionariesLambdaandLINQ\\5. Student Academy\\Program.cs",
+              "RelativeToolTip": "5. Student Academy\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:14:00.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\source\\repos\\ExercisesDictionariesLambdaandLINQ\\4. SoftUni Parking\\Program.cs",
+              "RelativeDocumentMoniker": "4. SoftUni Parking\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\source\\repos\\ExercisesDictionariesLambdaandLINQ\\4. SoftUni Parking\\Program.cs",
+              "RelativeToolTip": "4. SoftUni Parking\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T10:13:44.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\source\\repos\\ExercisesDictionariesLambdaandLINQ\\3. Orders\\Program.cs",
+              "RelativeDocumentMoniker": "3. Orders\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\source\\repos\\ExercisesDictionariesLambdaandLINQ\\3. Orders\\Program.cs",
+              "RelativeToolTip": "3. Orders\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwBEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:00:16.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\source\\repos\\ExercisesDictionariesLambdaandLINQ\\2. A Miner Task\\Program.cs",
+              "RelativeDocumentMoniker": "2. A Miner Task\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\source\\repos\\ExercisesDictionariesLambdaandLINQ\\2. A Miner Task\\Program.cs",
+              "RelativeToolTip": "2. A Miner Task\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T06:56:22.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\source\\repos\\ExercisesDictionariesLambdaandLINQ\\01. Count Chars in a String\\Program.cs",
+              "RelativeDocumentMoniker": "01. Count Chars in a String\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\source\\repos\\ExercisesDictionariesLambdaandLINQ\\01. Count Chars in a String\\Program.cs",
+              "RelativeToolTip": "01. Count Chars in a String\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T17:13:58.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\source\\repos\\ExercisesDictionariesLambdaandLINQ\\04. Word Filter\\Program.cs",
+              "RelativeDocumentMoniker": "04. Word Filter\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\source\\repos\\ExercisesDictionariesLambdaandLINQ\\04. Word Filter\\Program.cs",
+              "RelativeToolTip": "04. Word Filter\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T14:18:34.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\source\\repos\\ExercisesDictionariesLambdaandLINQ\\03. Word Synonyms\\Program.cs",
+              "RelativeDocumentMoniker": "03. Word Synonyms\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\source\\repos\\ExercisesDictionariesLambdaandLINQ\\03. Word Synonyms\\Program.cs",
+              "RelativeToolTip": "03. Word Synonyms\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:51:46.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\source\\repos\\ExercisesDictionariesLambdaandLINQ\\02. Odd Occurrences\\Program.cs",
+              "RelativeDocumentMoniker": "02. Odd Occurrences\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\source\\repos\\ExercisesDictionariesLambdaandLINQ\\02. Odd Occurrences\\Program.cs",
+              "RelativeToolTip": "02. Odd Occurrences\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:25:18.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\source\\repos\\ExercisesDictionariesLambdaandLINQ\\01. Count Real Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "01. Count Real Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\source\\repos\\ExercisesDictionariesLambdaandLINQ\\01. Count Real Numbers\\Program.cs",
+              "RelativeToolTip": "01. Count Real Numbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:59:29.168Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

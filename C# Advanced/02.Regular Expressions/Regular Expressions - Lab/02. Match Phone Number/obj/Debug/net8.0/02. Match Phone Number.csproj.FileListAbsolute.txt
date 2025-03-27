@@ -1,0 +1,14 @@
+C:\Users\Halfdone\source\repos\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net8.0\02. Match Phone Number.exe
+C:\Users\Halfdone\source\repos\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net8.0\02. Match Phone Number.deps.json
+C:\Users\Halfdone\source\repos\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net8.0\02. Match Phone Number.runtimeconfig.json
+C:\Users\Halfdone\source\repos\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net8.0\02. Match Phone Number.dll
+C:\Users\Halfdone\source\repos\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net8.0\02. Match Phone Number.pdb
+C:\Users\Halfdone\source\repos\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net8.0\02. Match Phone Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halfdone\source\repos\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net8.0\02. Match Phone Number.AssemblyInfoInputs.cache
+C:\Users\Halfdone\source\repos\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net8.0\02. Match Phone Number.AssemblyInfo.cs
+C:\Users\Halfdone\source\repos\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net8.0\02. Match Phone Number.csproj.CoreCompileInputs.cache
+C:\Users\Halfdone\source\repos\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net8.0\02. Match Phone Number.dll
+C:\Users\Halfdone\source\repos\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net8.0\refint\02. Match Phone Number.dll
+C:\Users\Halfdone\source\repos\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net8.0\02. Match Phone Number.pdb
+C:\Users\Halfdone\source\repos\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net8.0\02. Match Phone Number.genruntimeconfig.cache
+C:\Users\Halfdone\source\repos\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net8.0\ref\02. Match Phone Number.dll

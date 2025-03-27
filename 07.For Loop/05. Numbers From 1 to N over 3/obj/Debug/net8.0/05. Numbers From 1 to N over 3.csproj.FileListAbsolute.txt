@@ -1,0 +1,14 @@
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\05. Numbers From 1 to N over 3\bin\Debug\net8.0\05. Numbers From 1 to N over 3.exe
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\05. Numbers From 1 to N over 3\bin\Debug\net8.0\05. Numbers From 1 to N over 3.deps.json
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\05. Numbers From 1 to N over 3\bin\Debug\net8.0\05. Numbers From 1 to N over 3.runtimeconfig.json
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\05. Numbers From 1 to N over 3\bin\Debug\net8.0\05. Numbers From 1 to N over 3.dll
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\05. Numbers From 1 to N over 3\bin\Debug\net8.0\05. Numbers From 1 to N over 3.pdb
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\05. Numbers From 1 to N over 3\obj\Debug\net8.0\05. Numbers From 1 to N over 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\05. Numbers From 1 to N over 3\obj\Debug\net8.0\05. Numbers From 1 to N over 3.AssemblyInfoInputs.cache
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\05. Numbers From 1 to N over 3\obj\Debug\net8.0\05. Numbers From 1 to N over 3.AssemblyInfo.cs
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\05. Numbers From 1 to N over 3\obj\Debug\net8.0\05. Numbers From 1 to N over 3.csproj.CoreCompileInputs.cache
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\05. Numbers From 1 to N over 3\obj\Debug\net8.0\05. Numbers From 1 to N over 3.dll
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\05. Numbers From 1 to N over 3\obj\Debug\net8.0\refint\05. Numbers From 1 to N over 3.dll
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\05. Numbers From 1 to N over 3\obj\Debug\net8.0\05. Numbers From 1 to N over 3.pdb
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\05. Numbers From 1 to N over 3\obj\Debug\net8.0\05. Numbers From 1 to N over 3.genruntimeconfig.cache
+C:\Users\Halfdone\Desktop\Programing for QA\For Loop\05. Numbers From 1 to N over 3\obj\Debug\net8.0\ref\05. Numbers From 1 to N over 3.dll

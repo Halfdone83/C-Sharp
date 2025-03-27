@@ -1,0 +1,14 @@
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\05. Sum Digits\bin\Debug\net8.0\05. Sum Digits.exe
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\05. Sum Digits\bin\Debug\net8.0\05. Sum Digits.deps.json
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\05. Sum Digits\bin\Debug\net8.0\05. Sum Digits.runtimeconfig.json
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\05. Sum Digits\bin\Debug\net8.0\05. Sum Digits.dll
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\05. Sum Digits\bin\Debug\net8.0\05. Sum Digits.pdb
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\05. Sum Digits\obj\Debug\net8.0\05. Sum Digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\05. Sum Digits\obj\Debug\net8.0\05. Sum Digits.AssemblyInfoInputs.cache
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\05. Sum Digits\obj\Debug\net8.0\05. Sum Digits.AssemblyInfo.cs
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\05. Sum Digits\obj\Debug\net8.0\05. Sum Digits.csproj.CoreCompileInputs.cache
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\05. Sum Digits\obj\Debug\net8.0\05. Sum Digits.dll
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\05. Sum Digits\obj\Debug\net8.0\refint\05. Sum Digits.dll
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\05. Sum Digits\obj\Debug\net8.0\05. Sum Digits.pdb
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\05. Sum Digits\obj\Debug\net8.0\05. Sum Digits.genruntimeconfig.cache
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\05. Sum Digits\obj\Debug\net8.0\ref\05. Sum Digits.dll

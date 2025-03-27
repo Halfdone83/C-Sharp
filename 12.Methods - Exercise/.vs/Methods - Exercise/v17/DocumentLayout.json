@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Halfdone\\source\\repos\\Methods - Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{745A76DD-B167-46AE-A65D-CA9EE00E4AD4}|1. Vowels Count\\1. Vowels Count.csproj|c:\\users\\halfdone\\source\\repos\\methods - exercise\\1. vowels count\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745A76DD-B167-46AE-A65D-CA9EE00E4AD4}|1. Vowels Count\\1. Vowels Count.csproj|solutionrelative:1. vowels count\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B851CFA-9656-4FFF-8F71-FC5498F534B9}|2. Factorial Division\\2. Factorial Division.csproj|c:\\users\\halfdone\\source\\repos\\methods - exercise\\2. factorial division\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B851CFA-9656-4FFF-8F71-FC5498F534B9}|2. Factorial Division\\2. Factorial Division.csproj|solutionrelative:2. factorial division\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851AA9CF-F749-4604-9527-C673647E0DBE}|3. Multiplication Sign\\3. Multiplication Sign.csproj|c:\\users\\halfdone\\source\\repos\\methods - exercise\\3. multiplication sign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851AA9CF-F749-4604-9527-C673647E0DBE}|3. Multiplication Sign\\3. Multiplication Sign.csproj|solutionrelative:3. multiplication sign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6FB5FD-63A7-4561-B91C-A1D877A399D6}|4. Password Validator\\4. Password Validator.csproj|c:\\users\\halfdone\\source\\repos\\methods - exercise\\4. password validator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6FB5FD-63A7-4561-B91C-A1D877A399D6}|4. Password Validator\\4. Password Validator.csproj|solutionrelative:4. password validator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC6378E-0336-4A16-8741-600F72BF8BC9}|5. Multiply Evens by Odds\\5. Multiply Evens by Odds.csproj|c:\\users\\halfdone\\source\\repos\\methods - exercise\\5. multiply evens by odds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC6378E-0336-4A16-8741-600F72BF8BC9}|5. Multiply Evens by Odds\\5. Multiply Evens by Odds.csproj|solutionrelative:5. multiply evens by odds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20626A50-7957-47AF-BB5A-6000B8429637}|6. Orders\\6. Orders.csproj|c:\\users\\halfdone\\source\\repos\\methods - exercise\\6. orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20626A50-7957-47AF-BB5A-6000B8429637}|6. Orders\\6. Orders.csproj|solutionrelative:6. orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\source\\repos\\Methods - Exercise\\6. Orders\\Program.cs",
+              "RelativeDocumentMoniker": "6. Orders\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\source\\repos\\Methods - Exercise\\6. Orders\\Program.cs",
+              "RelativeToolTip": "6. Orders\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:38:00.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\source\\repos\\Methods - Exercise\\5. Multiply Evens by Odds\\Program.cs",
+              "RelativeDocumentMoniker": "5. Multiply Evens by Odds\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\source\\repos\\Methods - Exercise\\5. Multiply Evens by Odds\\Program.cs",
+              "RelativeToolTip": "5. Multiply Evens by Odds\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAUwDIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:37:51.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\source\\repos\\Methods - Exercise\\4. Password Validator\\Program.cs",
+              "RelativeDocumentMoniker": "4. Password Validator\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\source\\repos\\Methods - Exercise\\4. Password Validator\\Program.cs",
+              "RelativeToolTip": "4. Password Validator\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAUwEUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:37:42.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\source\\repos\\Methods - Exercise\\3. Multiplication Sign\\Program.cs",
+              "RelativeDocumentMoniker": "3. Multiplication Sign\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\source\\repos\\Methods - Exercise\\3. Multiplication Sign\\Program.cs",
+              "RelativeToolTip": "3. Multiplication Sign\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:37:34.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\source\\repos\\Methods - Exercise\\2. Factorial Division\\Program.cs",
+              "RelativeDocumentMoniker": "2. Factorial Division\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\source\\repos\\Methods - Exercise\\2. Factorial Division\\Program.cs",
+              "RelativeToolTip": "2. Factorial Division\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:37:25.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\source\\repos\\Methods - Exercise\\1. Vowels Count\\Program.cs",
+              "RelativeDocumentMoniker": "1. Vowels Count\\Program.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\source\\repos\\Methods - Exercise\\1. Vowels Count\\Program.cs",
+              "RelativeToolTip": "1. Vowels Count\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:37:07.671Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

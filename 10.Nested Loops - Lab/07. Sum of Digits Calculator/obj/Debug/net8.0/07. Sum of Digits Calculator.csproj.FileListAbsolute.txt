@@ -1,0 +1,14 @@
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\07. Sum of Digits Calculator\bin\Debug\net8.0\07. Sum of Digits Calculator.exe
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\07. Sum of Digits Calculator\bin\Debug\net8.0\07. Sum of Digits Calculator.deps.json
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\07. Sum of Digits Calculator\bin\Debug\net8.0\07. Sum of Digits Calculator.runtimeconfig.json
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\07. Sum of Digits Calculator\bin\Debug\net8.0\07. Sum of Digits Calculator.dll
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\07. Sum of Digits Calculator\bin\Debug\net8.0\07. Sum of Digits Calculator.pdb
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\07. Sum of Digits Calculator\obj\Debug\net8.0\07. Sum of Digits Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\07. Sum of Digits Calculator\obj\Debug\net8.0\07. Sum of Digits Calculator.AssemblyInfoInputs.cache
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\07. Sum of Digits Calculator\obj\Debug\net8.0\07. Sum of Digits Calculator.AssemblyInfo.cs
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\07. Sum of Digits Calculator\obj\Debug\net8.0\07. Sum of Digits Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\07. Sum of Digits Calculator\obj\Debug\net8.0\07. Sum of Digits Calculator.dll
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\07. Sum of Digits Calculator\obj\Debug\net8.0\refint\07. Sum of Digits Calculator.dll
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\07. Sum of Digits Calculator\obj\Debug\net8.0\07. Sum of Digits Calculator.pdb
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\07. Sum of Digits Calculator\obj\Debug\net8.0\07. Sum of Digits Calculator.genruntimeconfig.cache
+C:\Users\Halfdone\Desktop\Programing for QA\Nested Loops - Lab\07. Sum of Digits Calculator\obj\Debug\net8.0\ref\07. Sum of Digits Calculator.dll

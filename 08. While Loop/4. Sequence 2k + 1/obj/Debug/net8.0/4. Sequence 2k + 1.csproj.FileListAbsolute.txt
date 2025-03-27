@@ -1,0 +1,14 @@
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\4. Sequence 2k + 1\bin\Debug\net8.0\4. Sequence 2k + 1.exe
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\4. Sequence 2k + 1\bin\Debug\net8.0\4. Sequence 2k + 1.deps.json
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\4. Sequence 2k + 1\bin\Debug\net8.0\4. Sequence 2k + 1.runtimeconfig.json
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\4. Sequence 2k + 1\bin\Debug\net8.0\4. Sequence 2k + 1.dll
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\4. Sequence 2k + 1\bin\Debug\net8.0\4. Sequence 2k + 1.pdb
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\4. Sequence 2k + 1\obj\Debug\net8.0\4. Sequence 2k + 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\4. Sequence 2k + 1\obj\Debug\net8.0\4. Sequence 2k + 1.AssemblyInfoInputs.cache
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\4. Sequence 2k + 1\obj\Debug\net8.0\4. Sequence 2k + 1.AssemblyInfo.cs
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\4. Sequence 2k + 1\obj\Debug\net8.0\4. Sequence 2k + 1.csproj.CoreCompileInputs.cache
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\4. Sequence 2k + 1\obj\Debug\net8.0\4. Sequence 2k + 1.dll
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\4. Sequence 2k + 1\obj\Debug\net8.0\refint\4. Sequence 2k + 1.dll
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\4. Sequence 2k + 1\obj\Debug\net8.0\4. Sequence 2k + 1.pdb
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\4. Sequence 2k + 1\obj\Debug\net8.0\4. Sequence 2k + 1.genruntimeconfig.cache
+C:\Users\Halfdone\Desktop\Programing for QA\While Loop\4. Sequence 2k + 1\obj\Debug\net8.0\ref\4. Sequence 2k + 1.dll
